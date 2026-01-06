@@ -1,3 +1,5 @@
 private_notes.txt
 .env
 data.json
+__pycache__/
+*.pyc
